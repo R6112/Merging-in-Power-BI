@@ -1,4 +1,4 @@
-# Merging-in-Power-BI
+# Merging-Tables-in-Power-BI
 
 
 This document outlines the process of merging two tables within the Power BI environment: the "Sales" table and the "Product" table. This data integration is crucial for comprehensive sales analysis and the creation of insightful visualizations within the Power BI dashboard.
